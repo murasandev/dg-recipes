@@ -11,3 +11,14 @@
   background-color: rgba(128, 128, 128, 0.35);
   max-width: 40%;
 }
+
+/* background image styling and images */
+.bg-image-style {
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.bg-image-caesar {
+  background-image: url(../images/caesar-salad.jpeg);
+}
