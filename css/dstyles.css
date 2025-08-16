@@ -1,0 +1,13 @@
+.light-header {
+  color: white;
+  text-align: center;
+}
+
+.light-text {
+  color: white;
+}
+
+.recipe-body {
+  background-color: rgba(128, 128, 128, 0.35);
+  max-width: 40%;
+}
